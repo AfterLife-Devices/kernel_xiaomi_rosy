@@ -1,0 +1,3 @@
+[submodule "KernelSU"]
+	path = KernelSU
+	url = https://gitlab.com/AtigaOS/packages/apps/KernelSU.git
